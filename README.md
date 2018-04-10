@@ -1,2 +1,2 @@
 # NewGit
-# Just trying out git
+Just trying out git
